@@ -40,7 +40,7 @@ HoldRodCastDuration := 1000
 WaitForBobberDelay := 1000
 
 ; Set this to your navigation key, IMPORTANT
-NavigationKey := "ň"
+NavigationKey := "\"
 
 ;     SHAKE SETTINGS     ====================================================================================================;
 
@@ -891,4 +891,5 @@ else
 	tooltip, , , , 20
 	sleep %RestartDelay%
 	goto RestartMacro
+
 	}
